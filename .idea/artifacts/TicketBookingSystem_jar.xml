@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TicketBookingSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TicketBookingSystem_jar</output-path>
+    <root id="archive" name="TicketBookingSystem.jar">
+      <element id="module-output" name="TicketBookingSystem" />
+      <element id="library" level="project" name="flatter-0.7-javadoc" />
+    </root>
+  </artifact>
+</component>

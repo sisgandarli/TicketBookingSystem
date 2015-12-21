@@ -1,0 +1,7 @@
+Cinema Ticket 50
+Concert Ticket 50
+Game Ticket 50
+Bus Ticket 50
+Plane Ticket 50
+Train Ticket 50
+Ship Ticket 50
